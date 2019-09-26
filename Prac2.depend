@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1456152502 source:c:\users\tmuza\downloads\my degree\eee4120f\labs\prac1\source\tools\jpeg.cpp
+	"JPEG.h"
+
+1456208152 c:\users\tmuza\downloads\my degree\eee4120f\labs\prac1\source\tools\jpeg.h
+	<stdio.h>
+	"jpeglib.h"
+
+1456130580 c:\users\tmuza\downloads\my degree\eee4120f\labs\prac1\source\libraries\libjpeg\jpeglib.h
+	"jconfig.h"
+	"jmorecfg.h"
+	"jpegint.h"
+	"jerror.h"
+
+1456130580 c:\users\tmuza\downloads\my degree\eee4120f\labs\prac1\source\libraries\libjpeg\jconfig.h
+
+1456130580 c:\users\tmuza\downloads\my degree\eee4120f\labs\prac1\source\libraries\libjpeg\jmorecfg.h
+
+1456376360 source:c:\users\tmuza\downloads\my degree\eee4120f\labs\prac1\source\tools\timer.cpp
+	"Timer.h"
+	<windows.h>
+	<time.h>
+
+1456376214 c:\users\tmuza\downloads\my degree\eee4120f\labs\prac1\source\tools\timer.h
+	<stdio.h>
+
+1552306795 source:c:\users\tmuza\downloads\my degree\eee4120f\labs\prac1\source\prac2.cpp
+	"Prac2.h"
+
+1551742605 c:\users\tmuza\downloads\my degree\eee4120f\labs\prac1\source\prac2.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<algorithm>
+	"JPEG.h"
+	"Timer.h"
+
+1551743905 source:c:\users\tmuza\downloads\my degree\eee4120f\labs\prac1\source\mzntaw004prac2.cpp
+	"Prac2.h"
+
